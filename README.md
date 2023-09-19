@@ -1,5 +1,5 @@
 # Asian Kitchen Menu 
-Bu web uygulaması, restorantın menüsünü JSON verilerini kullanarak dinamik bir şekilde gösteren bir uygulamadır. JSON verileri kategoriye göre filtrelenir ve arayüzde gösterilir.
+Bu web uygulaması, restoranın menüsünü JSON verilerini kullanarak dinamik bir şekilde gösteren bir uygulamadır. JSON verileri kategoriye göre filtrelenir ve arayüzde gösterilir.
 
 ## Kullanılan Teknolojiler
 * HTML
